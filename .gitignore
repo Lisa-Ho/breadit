@@ -1,20 +1,24 @@
-# exclude jupyter checkpoints
+# jupyter checkpoints
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
+# configuration files
+*.cfg
+# except the example file
+!example-config.cfg
 
-# exclude data files
+# data files
 *.csv
 *.xlsx
 
-# exclude pickles
+# pickles
 *.pkl
 *.pickle
 
-# exclude images
+# images
 *.png
 *.jpg
 *.jpeg
