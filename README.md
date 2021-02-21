@@ -1,6 +1,6 @@
 # About this project
 
-This is a personal project scraping and analysing data from the []Reddit/Sourdough](https://www.reddit.com/r/Sourdough/) community in 2020. 
+This is a personal project scraping and analysing data from the [Reddit/Sourdough](https://www.reddit.com/r/Sourdough/) community in 2020. 
 
 As a sourdough baker myself, I wanted to explore lockdown baking trends in more detail, see when engagement peaked and what bakers were talking about. 
 
