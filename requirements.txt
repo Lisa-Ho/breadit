@@ -1,0 +1,13 @@
+# This file specifies the python libraries that are needed to run this project. 
+
+pandas
+matplotlib
+numpy
+nltk
+spacy
+en-core-web-sm
+praw
+calplot
+configparser
+requests
+json
